@@ -1,0 +1,13 @@
+.image{
+width: 50%;
+}
+
+.ball{
+    width: 50%
+}
+
+.ball:hover {
+    transform: translatey(-15rem);
+    transition: 2s;
+  }
+
